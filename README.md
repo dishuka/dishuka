@@ -20,12 +20,13 @@ Bridging business systems and machine learning to enable **audit-ready, bias-awa
 
 ## Featured Projects
 
-###  Fairness Intervention Playbook
+## Featured Projects
+
+### 🔍 [Fairness Intervention Playbook](https://github.com/dishuka/Fairness-intervention-playbook)
 A governance-focused framework for selecting fairness interventions using causal analysis, risk classification, and audit-ready workflows.
 
-###  Fairness Implementation Toolkit
+### ⚙️ [Fairness Implementation Toolkit](https://github.com/dishuka/Fairness-implementation-toolkit)
 A configuration-driven ML pipeline for executing fairness workflows, including bias detection, intervention, model training, and MLflow-based validation.
-
 ---
 
 ## Skills Demonstrated
